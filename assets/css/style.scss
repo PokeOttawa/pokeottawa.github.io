@@ -19,3 +19,11 @@ h2 {
   border-bottom: 1px solid #eff0f1;
   padding-bottom: .5em;
 }
+
+span.pokeball-icon {
+  content: '';
+  background-image: url('..images/pokeball.svg');
+  width: 24px;
+  height: 24px;
+  margin: 0 1em;
+}

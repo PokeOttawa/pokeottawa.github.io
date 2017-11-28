@@ -13,6 +13,7 @@ section.page-header {
 .project-tagline {
   color: #606c71;
   border-bottom: 0;
+  padding-bottom: 0;
 }
 
 h2 {
@@ -20,9 +21,7 @@ h2 {
   padding-bottom: .5em;
 }
 
-span.pokeball-icon {
-  content: '';
-  background-image: url('..images/pokeball.svg');
+img.pokeball-icon {
   width: 24px;
   height: 24px;
   margin: 0 1em;

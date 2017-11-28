@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* CUSTOM STYLES */
+
+section.page-header {
+  background-image: url('../images/pogo-map-bg.jpg');
+  background-size: cover;
+}
+
+h2 {
+  border-bottom: 1px solid #606c71;
+}

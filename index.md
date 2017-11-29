@@ -1,3 +1,7 @@
+---
+title: null
+---
+
 ## Upcoming Third Saturday Event
 
 ### When
@@ -18,13 +22,15 @@ The City Hall building is heated, has bathrooms, benches, and wifi. It is close 
 Play time: 12 PM - 2 PM  
 Scoring and Prizes: 2:30 PM - 3 PM**
 
+**There is NO cost associated with the event.**
+
 The Pokémon Go Third Saturday events are designed with social interaction, friendly gameplay, and leveling up in mind. Third Saturday is a social gathering and leveling event where cities around the world compete to see which one can score highest in the following categories:
 
 * XP/Levels gained
 * Pokemon captured
 * Kilometers walked
 
-There is NO cost associated with the event. Trainers should arrive at the meeting place designated above at or before noon to register and record their starting stats. After a brief explanation of the event, Trainers are free to roam the area until the event ends. There will be prizes, so stick around! Registration is required to be entered to win prizes, but not necessary to come and hang out with us!
+Trainers should arrive at the meeting place designated above at or before noon to register and record their starting stats. After a brief explanation of the event, Trainers are free to roam the area until the event ends. There will be prizes, so stick around! Registration is required to be entered to win prizes, but not necessary to come and hang out with us!
 
 This event is not officially endorsed or sponsored by Niantic or The Pokémon Company.
 

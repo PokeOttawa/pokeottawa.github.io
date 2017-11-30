@@ -1,6 +1,6 @@
 ---
 title: Third Saturday Registration Form
-permalink: /:title/
+permalink: /form/
 ---
 
 ## {{ page.title }}

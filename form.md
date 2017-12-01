@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Registration Form
 permalink: /form
 ---

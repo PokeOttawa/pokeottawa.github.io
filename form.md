@@ -58,3 +58,5 @@ permalink: /form
   <button type="submit" value="Submit">Submit</button>
     
 </form>
+
+<script rel="text/javascript" src="{{ 'assets/js/script.js | relative_url }}"></script>

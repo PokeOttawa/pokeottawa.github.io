@@ -31,7 +31,7 @@ permalink: /form
  
  <div id="exp-wrapper">
  <h3>Total XP</h3>
-  <input type="file" id="exp-file" />
+  <input type="file" id="exp-file" name="exp-file" />
    <img id="exp-img" />
  <br />
    <label for="exp">EXP:</label>
@@ -40,7 +40,7 @@ permalink: /form
  
 <div id="collector-wrapper">
  <h3>Collector Badge</h3>
-  <input type="file" id="collector-file" />
+  <input type="file" id="collector-file" name="collector-file" />
    <img id="collector-img" />
  <br />
    <label for="collector">Collector Number:</label>
@@ -49,14 +49,14 @@ permalink: /form
  
  <div id="jogger-wrapper">
  <h3>Jogger Badge</h3>
-  <input type="file" id="jogger-file" />
+  <input type="file" id="jogger-file" name="jogger-file" />
    <img id="jogger-img" />
  <br />
    <label for="jogger">Jogger Badge:</label>
     <input type="number" id="jogger-num" name="jogger" />
  </div>
   
-  <input type="submit" value="Submit" />
+  <button type="submit">Submit</button>
     
 </form>
 

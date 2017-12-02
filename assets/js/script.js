@@ -1,4 +1,4 @@
-['exp', 'collector', 'jogger'].forEach(function(stat) {
+;['exp', 'collector', 'jogger'].forEach(function(stat) {
   document.getElementById(stat + '-file').onchange = function () {
     var reader = new FileReader()
 

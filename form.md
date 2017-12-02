@@ -6,7 +6,8 @@ permalink: /form
 
 ## {{ page.title }}
 
-<form>
+{% include form-opening.html %}
+
 <div id="username-wrapper">
  <label for="username">Username:</label>
   <input type="text" id="username" name="username" />
@@ -29,7 +30,7 @@ permalink: /form
 </div>
  
  <div id="exp-wrapper">
- ### Total XP
+ <h3>Total XP</h3>
   <input type="file" id="exp-file" />
    <img id="exp-img" />
  <br />
@@ -38,7 +39,7 @@ permalink: /form
  </div>
  
 <div id="collector-wrapper">
- ### Collector Badge
+ <h3>Collector Badge</h3>
   <input type="file" id="collector-file" />
    <img id="collector-img" />
  <br />
@@ -47,7 +48,7 @@ permalink: /form
  </div>
  
  <div id="jogger-wrapper">
- ### Jogger Badge
+ <h3>Jogger Badge</h3>
   <input type="file" id="jogger-file" />
    <img id="jogger-img" />
  <br />
@@ -55,7 +56,7 @@ permalink: /form
     <input type="number" id="jogger-num" name="jogger" />
  </div>
   
-  <button type="submit" value="Submit">Submit</button>
+  <input type="submit" value="Submit" />
     
 </form>
 

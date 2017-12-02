@@ -7,16 +7,17 @@ permalink: /form
 ## {{ page.title }}
 
 <form>
-
+<div id="username-wrapper">
  <label for="username">Username:</label>
   <input type="text" id="username" name="username" />
-<br />
+</div>
+ 
+<div id="level-wrapper">
  <label for="level">Level:</label>
   <input type="number" id="level" name="level" />
-<br />
- <label for="exp">EXP:</label>
-  <input type="number" id="exp" name="exp" />
-<br />
+</div>
+ 
+<div id="team-wrapper">
   <input type="radio" id="ValorTeam" name="team" value="Valor" />
     <label for="ValorTeam">Valor</label>
 
@@ -25,26 +26,35 @@ permalink: /form
 
   <input type="radio" id="MysticTeam" name="team" value="Mystic" />
     <label for="MysticTeam">Mystic</label>
-<br />
-
-  <input type="file" id="file1" />
-   <img id="image1" />
+</div>
+ 
+ <div id="exp-wrapper">
+ ### Total XP
+  <input type="file" id="exp-file" />
+   <img id="exp-img" />
+ <br />
+   <label for="exp">EXP:</label>
+    <input type="number" id="exp-num" name="exp" />
+ </div>
+ 
+<div id="collector-wrapper">
+ ### Collector Badge
+  <input type="file" id="collector-file" />
+   <img id="collector-img" />
+ <br />
+   <label for="collector">Collector Number:</label>
+    <input type="number" id="collector-num" name="collector" />
+ </div>
+ 
+ <div id="jogger-wrapper">
+ ### Jogger Badge
+  <input type="file" id="jogger-file" />
+   <img id="jogger-img" />
+ <br />
+   <label for="jogger">Jogger Badge:</label>
+    <input type="number" id="jogger-num" name="jogger" />
+ </div>
+  
   <button type="submit" value="Submit">Submit</button>
     
 </form>
-
-Thank you.
-
-<script>
- document.getElementById("file1").onchange = function () {
-    var reader = new FileReader();
-
-    reader.onload = function (e) {
-        // get loaded data and render thumbnail.
-        document.getElementById("image1").src = e.target.result;
-    };
-
-    // read the image file as a data URL.
-    reader.readAsDataURL(this.files[0]);
-};
-</script>

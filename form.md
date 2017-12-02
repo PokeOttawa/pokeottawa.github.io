@@ -59,4 +59,4 @@ permalink: /form
     
 </form>
 
-<script rel="text/javascript" src="{{ 'assets/js/script.js | relative_url }}"></script>
+<script rel="text/javascript" src="{{ 'assets/js/script.js' | relative_url }}"></script>

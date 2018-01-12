@@ -31,3 +31,13 @@ img.pokeball-icon {
   margin: 0 1em;
   vertical-align: middle;
 }
+
+div.highlight {
+  padding: .5em;
+  background-color: rgba(21,153,87,.3);
+  border: 1px solid rgb(21,153,87);
+}
+
+form input, form button {
+  margin: .5em 0;
+}

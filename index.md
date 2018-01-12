@@ -4,11 +4,27 @@ title: null
 
 ## Upcoming Third Saturday Event
 
+
 ### When
 
-**December 16th, 2017**
+**January 20th, 2018**
 
 This event will occur rain or shine, since we have access to indoor facilities.
+
+### New Niantic Community Day Poll
+
+Niantic announced a new global event called Community Days, which will give players around the world double XP, 3-hour lures, and exclusive pokemon on the Third Saturday of every month. You can read more about the new global event here: [pokemongolive.com/en/post/communityday](https://pokemongolive.com/en/post/communityday)
+
+ Currently, the Pokemon Go Ottawa event times (12-2pm) don't match up with Niantic's bonus times (2-5pm). Are you in favour of changing our event times to take advantage of the new bonus period?
+ 
+ {% include form-opening.html %}
+
+ <input type="radio" name="time" value="old-time"> Keep the current times: 12pm-2pm<br>
+ <input type="radio" name="time" value="new-time"> Change the time: 2pm-4pm<br>
+  
+ <button type="submit">Submit</button>
+    
+</form>
 
 ### Where
 
@@ -17,6 +33,10 @@ This event will occur rain or shine, since we have access to indoor facilities.
 The City Hall building is heated, has bathrooms, benches, and wifi. It is close to a large number of pokestops and gyms, as well as coffee shops and restaurants. You _can_ spend the entire event in the building, if necessary.
 
 ## Event Details
+
+### The following times are subject to change based on the results from the poll above
+
+Watch the [Discord](http://discord.me/pokeottawa) #announcements channel and the [Facebook event](https://www.facebook.com/events/526533707731053/) for updates in the week leading up to the event
 
 **Registration: 11:45 AM - 12 PM  
 Play time: 12 PM - 2 PM  

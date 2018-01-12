@@ -12,11 +12,11 @@ title: null
 This event will occur rain or shine, since we have access to indoor facilities.
 
 <div class="highlight">
-### New Niantic Community Day Poll
+ <h3>Community Day Poll</h3>
 
-Niantic announced a new global event called Community Days, which will give players around the world double XP, 3-hour lures, and exclusive pokemon on the Third Saturday of every month. Read more about the new global event here: [pokemongolive.com/en/post/communityday](https://pokemongolive.com/en/post/communityday)
+<p>Niantic has announced a new global event called Community Days, which will give players around the world double XP, 3-hour lures, and exclusive pokemon on the Third Saturday of every month. Read more about the new global event here: <a href="https://pokemongolive.com/en/post/communityday" target="_blank">pokemongolive.com/en/post/communityday</a></p>
 
- Currently, the Pokemon Go Ottawa event times (12-2pm) don't match up with Niantic's bonus times (2-5pm). Are you in favour of changing our event times to take advantage of the new bonus period?
+<p>Currently, the Pokemon Go Ottawa event times (12-2pm) don't match up with Niantic's bonus times (2-5pm). Are you in favour of changing our event times to take advantage of the new bonus period?</p>
  
  {% include form-opening.html %}
 

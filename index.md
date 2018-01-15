@@ -38,13 +38,13 @@ The City Hall building is heated, has bathrooms, benches, and wifi. It is close 
 
 ## Event Details
 
-### The following times are subject to change based on the results from the poll above
+### Note that the event times below are different from past months. The event is now 2-4pm.
 
 Watch the [Discord](http://discord.me/pokeottawa) #announcements channel and the [Facebook event](https://www.facebook.com/events/526533707731053/) for updates in the week leading up to the event
 
-**Registration: 11:45 AM - 12 PM  
-Play time: 12 PM - 2 PM  
-Scoring and Prizes: 2:30 PM - 3 PM**
+**Registration: 1:45 PM - 2 PM  
+Play time: 2 PM - 4 PM  
+Scoring and Prizes: 4 PM - 4:30 PM**
 
 **There is NO cost associated with the event.**
 

@@ -11,6 +11,41 @@ title: null
 
 This event will occur rain or shine, since we have access to indoor facilities.
 
+### Where
+
+**Ottawa City Hall [(110 Laurier Ave. W)](https://goo.gl/maps/8wgPXJ4Wkf32)**
+
+The City Hall building is heated, has bathrooms, benches, and wifi. It is close to a large number of pokestops and gyms, as well as coffee shops and restaurants. You _can_ spend the entire event in the building, if necessary.
+
+## Event Details
+
+<div class="highlight"><h3>Note that the event times below are different from past months. The event is now 2-4pm.</h3></div>
+
+Watch the [Discord](http://discord.me/pokeottawa) #announcements channel and the [Facebook event](https://www.facebook.com/events/526533707731053/) for updates in the week leading up to the event
+
+**Registration: 1:45 PM - 2 PM  
+Play time: 2 PM - 4 PM  
+Scoring and Prizes: 4 PM - 4:30 PM**
+
+**There is NO cost associated with the event.**
+
+<div class="highlight">
+ <p>The Silph Road has released a new feature called Trainer Cards. These are public community PoGo profiles, where you can connect with other trainers, earn badges, and share stats. You can sign up for it here: <a href="https://thesilphroad.com/login">thesilphroad.com/login</a></p>
+ <p>We will be handing out exclusive <b>Community Day</b> badges to users who meet up with us at the upcoming event. You must have a Silph Road Trainer Card to do the Handshake and receive the badge. If you don't have time to stay for the whole event, don't worry! Just make sure you check in with one of the Discord mods in person, and you'll get the badge.</p>
+</div>
+
+The Pokémon Go Third Saturday events are designed with social interaction, friendly gameplay, and leveling up in mind. Third Saturday is a social gathering and leveling event where cities around the world compete to see which one can score highest in the following categories:
+
+* XP/Levels gained
+* Pokemon captured
+* Kilometers walked
+
+Trainers should arrive at the meeting place designated above at or before noon to register and record their starting stats. After a brief explanation of the event, Trainers are free to roam the area until the event ends. There will be prizes, so stick around! Registration is required to be entered to win prizes, but not necessary to come and hang out with us!
+
+This event is not officially endorsed or sponsored by Niantic or The Pokémon Company.
+
+Harassment of any kind is absolutely not tolerated at any of our events, and offenders will be immediately disqualified and barred from participating in future PGTS events.
+
 <div class="highlight">
  <h3>Community Day Poll</h3>
 
@@ -29,33 +64,3 @@ This event will occur rain or shine, since we have access to indoor facilities.
     
 </form>
 </div>
-
-### Where
-
-**Ottawa City Hall [(110 Laurier Ave. W)](https://goo.gl/maps/8wgPXJ4Wkf32)**
-
-The City Hall building is heated, has bathrooms, benches, and wifi. It is close to a large number of pokestops and gyms, as well as coffee shops and restaurants. You _can_ spend the entire event in the building, if necessary.
-
-## Event Details
-
-### Note that the event times below are different from past months. The event is now 2-4pm.
-
-Watch the [Discord](http://discord.me/pokeottawa) #announcements channel and the [Facebook event](https://www.facebook.com/events/526533707731053/) for updates in the week leading up to the event
-
-**Registration: 1:45 PM - 2 PM  
-Play time: 2 PM - 4 PM  
-Scoring and Prizes: 4 PM - 4:30 PM**
-
-**There is NO cost associated with the event.**
-
-The Pokémon Go Third Saturday events are designed with social interaction, friendly gameplay, and leveling up in mind. Third Saturday is a social gathering and leveling event where cities around the world compete to see which one can score highest in the following categories:
-
-* XP/Levels gained
-* Pokemon captured
-* Kilometers walked
-
-Trainers should arrive at the meeting place designated above at or before noon to register and record their starting stats. After a brief explanation of the event, Trainers are free to roam the area until the event ends. There will be prizes, so stick around! Registration is required to be entered to win prizes, but not necessary to come and hang out with us!
-
-This event is not officially endorsed or sponsored by Niantic or The Pokémon Company.
-
-Harassment of any kind is absolutely not tolerated at any of our events, and offenders will be immediately disqualified and barred from participating in future PGTS events.

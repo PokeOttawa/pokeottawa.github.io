@@ -7,7 +7,7 @@ title: null
 
 ### When
 
-**January 20th, 2018**
+**February 17th, 2018**
 
 This event will occur rain or shine, since we have access to indoor facilities.
 
@@ -19,20 +19,15 @@ The City Hall building is heated, has bathrooms, benches, and wifi. It is close 
 
 ## Event Details
 
-<div class="highlight"><h3>Note that the event times below are different from past months. The event is now 2-4pm.</h3></div>
+<div class="highlight"><h3>The event time is 2-4pm.</h3></div>
 
-Watch the [Discord](http://discord.me/pokeottawa) #announcements channel and the [Facebook event](https://www.facebook.com/events/526533707731053/) for updates in the week leading up to the event
+Watch the [Discord](http://discord.me/pokeottawa) #announcements channel and the [Facebook event](https://www.facebook.com/events/255869428281560/) for updates in the week leading up to the event.
 
 **Registration: 1:45 PM - 2 PM  
 Play time: 2 PM - 4 PM  
 Scoring and Prizes: 4 PM - 4:30 PM**
 
 **There is NO cost associated with the event.**
-
-<div class="highlight">
- <p>The Silph Road has released a new feature called Trainer Cards. These are public community PoGo profiles, where you can connect with other trainers, earn badges, and share stats. You can sign up for it here: <a href="https://thesilphroad.com/login">thesilphroad.com/login</a></p>
- <p>We will be handing out exclusive <b>Community Day</b> badges to users who meet up with us at the upcoming event. You must have a Silph Road Trainer Card to do the Handshake and receive the badge. If you don't have time to stay for the whole event, don't worry! Just make sure you check in with one of the Discord mods in person, and you'll get the badge.</p>
-</div>
 
 The Pokémon Go Third Saturday events are designed with social interaction, friendly gameplay, and leveling up in mind. Third Saturday is a social gathering and leveling event where cities around the world compete to see which one can score highest in the following categories:
 
@@ -46,21 +41,28 @@ This event is not officially endorsed or sponsored by Niantic or The Pokémon Co
 
 Harassment of any kind is absolutely not tolerated at any of our events, and offenders will be immediately disqualified and barred from participating in future PGTS events.
 
+## February Community Day Check-in
+
+Dratini spawns, triple stardust, 3-hour lures
+
+### When
+
+**February 24th, 2018** - 12pm to 2pm
+
+### Where
+
+**Ottawa City Hall [(110 Laurier Ave. W)](https://goo.gl/maps/pMF6dCnxgwo)**
+
+### Event Details
+
+This month's Community Day features **Dratini** - a highly sought-after and valuable Pokemon. Because of this, we are hosting the Community Day meetup on the **BEFORE** the bonus period starts.
+
 <div class="highlight">
- <h3>Community Day Poll</h3>
-
-<p>Niantic has announced a new global event called Community Days, which will give players around the world double XP, 3-hour lures, and exclusive pokemon on the Third Saturday of every month. Read more about the new global event here: <a href="https://pokemongolive.com/en/post/communityday" target="_blank">pokemongolive.com/en/post/communityday</a></p>
-
-<p>Currently, the Pokemon Go Ottawa event times (12-2pm) don't match up with Niantic's bonus times (2-5pm). Are you in favour of changing our event times to take advantage of the new bonus period?</p>
+YOU ONLY NEED TO ATTEND THIS MEETUP IF YOU WANT THE BADGE FOR YOUR SILPH ROAD TRAINER CARD.
  
- {% include form-opening.html %}
-
- <input id="old-time" type="radio" name="time" value="old-time"> <label for="old-time">Keep the current times: 12pm-2pm</label>
- <br>
- <input id="new-time" type="radio" name="time" value="new-time"> <label for="new-time">Change the time: 2pm-4pm</label>
- <br>
-  
- <button type="submit">Submit</button>
-    
-</form>
+There will be no competition or prizes handed out during this event.
 </div>
+
+**If you are planning a meetup of ANY SIZE** around the city, you can hand out Trainer Card badges! You must be a member of [Discord](http://www.discord.me/pokeottawa) and have a [Silph Road Trainer Card](https://thesilphroad.com/card). Ping @Avalai in Discord to be added as a meetup organizer and get access to the check-in system.
+
+Read more about the global event here: [pokemongolive.com/en/events/community-day](https://pokemongolive.com/en/events/community-day/americas/)

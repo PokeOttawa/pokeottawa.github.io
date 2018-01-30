@@ -17,9 +17,9 @@ This event will occur rain or shine, since we have access to indoor facilities.
 
 The City Hall building is heated, has bathrooms, benches, and wifi. It is close to a large number of pokestops and gyms, as well as coffee shops and restaurants. You _can_ spend the entire event in the building, if necessary.
 
-## Event Details
+### Event Details
 
-<div class="highlight"><h3>The event time is 2-4pm.</h3></div>
+<div class="highlight">The event time is 2-4pm.</div>
 
 Watch the [Discord](http://discord.me/pokeottawa) #announcements channel and the [Facebook event](https://www.facebook.com/events/255869428281560/) for updates in the week leading up to the event.
 
@@ -59,7 +59,7 @@ This month's Community Day features **Dratini** - a highly sought-after and valu
 
 <div class="highlight">
 YOU ONLY NEED TO ATTEND THIS MEETUP IF YOU WANT THE BADGE FOR YOUR SILPH ROAD TRAINER CARD.
- 
+<br>
 There will be no competition or prizes handed out during this event.
 </div>
 

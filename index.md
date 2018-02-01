@@ -19,9 +19,9 @@ The City Hall building is heated, has bathrooms, benches, and wifi. It is close 
 
 ### Event Details
 
-<div class="highlight">The event time is 2-4pm.</div>
-
 Watch the [Discord](http://discord.me/pokeottawa) #announcements channel and the [Facebook event](https://www.facebook.com/events/255869428281560/) for updates in the week leading up to the event.
+
+<div class="highlight">The competition time is 2-4pm.</div>
 
 **Registration: 1:45 PM - 2 PM  
 Play time: 2 PM - 4 PM  
@@ -47,7 +47,7 @@ Dratini spawns, triple stardust, 3-hour lures
 
 ### When
 
-**February 24th, 2018** - 12pm to 2pm
+**February 24th, 2018** - 12pm to 5pm
 
 ### Where
 
@@ -55,7 +55,7 @@ Dratini spawns, triple stardust, 3-hour lures
 
 ### Event Details
 
-This month's Community Day features **Dratini** - a highly sought-after and valuable Pokemon. Because of this, we are hosting the Community Day meetup on the **BEFORE** the bonus period starts.
+This month's Community Day features **Dratini** - a highly sought-after and valuable Pokemon. Because of this, we will be at the Community Day meetup **before** the bonus period starts; you will be able to check in and then enjoy the event however you'd like.
 
 <div class="highlight">
 YOU ONLY NEED TO ATTEND THIS MEETUP IF YOU WANT THE BADGE FOR YOUR SILPH ROAD TRAINER CARD.

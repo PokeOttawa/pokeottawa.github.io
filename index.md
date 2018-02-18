@@ -2,12 +2,40 @@
 title: null
 ---
 
+## February Community Day Check-in
+
+Dratini spawns, triple stardust, 3-hour lures
+
+### When
+
+**February 24th, 2018** - 12pm to 5pm EST
+
+The bonuses will be active from 2pm to 5pm EST.
+
+### Where
+
+**Ottawa City Hall [(110 Laurier Ave. W)](https://goo.gl/maps/pMF6dCnxgwo)**
+
+### Event Details
+
+This month's Community Day features **Dratini** - a highly sought-after and valuable Pokemon. Because of this, we will be at the Community Day meetup **before** the bonus period starts; you will be able to check in and then enjoy the event however you'd like.
+
+<div class="highlight">
+YOU ONLY NEED TO ATTEND THIS MEETUP IF YOU WANT THE BADGE FOR YOUR SILPH ROAD TRAINER CARD.
+<br>
+There will be no competition or prizes handed out during this event.
+</div>
+
+**If you are planning a meetup of ANY SIZE** around the city, you can hand out Trainer Card badges! You must be a member of [Discord](http://www.discord.me/pokeottawa) and have a [Silph Road Trainer Card](https://thesilphroad.com/card). Ping or Direct Message @Avalai in Discord to be added as a meetup organizer and get access to the check-in system or learn more about it.
+
+Read more about the global event here: [pokemongolive.com/en/events/community-day](https://pokemongolive.com/en/events/community-day/americas/)
+
 ## Upcoming Third Saturday Event
 
 
 ### When
 
-**February 17th, 2018**
+**March 17th, 2018**
 
 This event will occur rain or shine, since we have access to indoor facilities.
 
@@ -19,9 +47,9 @@ The City Hall building is heated, has bathrooms, benches, and wifi. It is close 
 
 ### Event Details
 
-Watch the [Discord](http://discord.me/pokeottawa) #announcements channel and the [Facebook event](https://www.facebook.com/events/255869428281560/) for updates in the week leading up to the event.
+Watch the [Discord](http://discord.me/pokeottawa) #announcements channel and the [Facebook event](https://www.facebook.com/pokeottawa/events/) for updates in the week leading up to the event.
 
-<div class="highlight">The competition time is 2-4pm.</div>
+<div class="highlight">The event time is 2-4pm.</div>
 
 **Registration: 1:45 PM - 2 PM  
 Play time: 2 PM - 4 PM  
@@ -40,29 +68,3 @@ Trainers should arrive at the meeting place designated above at or before noon t
 This event is not officially endorsed or sponsored by Niantic or The Pokémon Company.
 
 Harassment of any kind is absolutely not tolerated at any of our events, and offenders will be immediately disqualified and barred from participating in future PGTS events.
-
-## February Community Day Check-in
-
-Dratini spawns, triple stardust, 3-hour lures
-
-### When
-
-**February 24th, 2018** - 12pm to 5pm
-
-### Where
-
-**Ottawa City Hall [(110 Laurier Ave. W)](https://goo.gl/maps/pMF6dCnxgwo)**
-
-### Event Details
-
-This month's Community Day features **Dratini** - a highly sought-after and valuable Pokemon. Because of this, we will be at the Community Day meetup **before** the bonus period starts; you will be able to check in and then enjoy the event however you'd like.
-
-<div class="highlight">
-YOU ONLY NEED TO ATTEND THIS MEETUP IF YOU WANT THE BADGE FOR YOUR SILPH ROAD TRAINER CARD.
-<br>
-There will be no competition or prizes handed out during this event.
-</div>
-
-**If you are planning a meetup of ANY SIZE** around the city, you can hand out Trainer Card badges! You must be a member of [Discord](http://www.discord.me/pokeottawa) and have a [Silph Road Trainer Card](https://thesilphroad.com/card). Ping @Avalai in Discord to be added as a meetup organizer and get access to the check-in system.
-
-Read more about the global event here: [pokemongolive.com/en/events/community-day](https://pokemongolive.com/en/events/community-day/americas/)

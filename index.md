@@ -2,13 +2,13 @@
 title: null
 ---
 
-## February Community Day Check-in
+## March Community Day Check-in
 
-Dratini spawns, triple stardust, 3-hour lures
+Bulbasaur spawns (exclusive move: Frenzy Plant), triple catch XP, 3-hour lures
 
 ### When
 
-**February 24th, 2018** - 12pm to 5pm EST
+Check-in: **Sunday, March 25th, 2018** - 1pm to 5pm EST
 
 The bonuses will be active from 2pm to 5pm EST.
 
@@ -17,8 +17,6 @@ The bonuses will be active from 2pm to 5pm EST.
 **Ottawa City Hall [(110 Laurier Ave. W)](https://goo.gl/maps/pMF6dCnxgwo)**
 
 ### Event Details
-
-This month's Community Day features **Dratini** - a highly sought-after and valuable Pokemon. Because of this, we will be at the Community Day meetup **before** the bonus period starts; you will be able to check in and then enjoy the event however you'd like.
 
 <div class="highlight">
 YOU ONLY NEED TO ATTEND THIS MEETUP IF YOU WANT THE BADGE FOR YOUR SILPH ROAD TRAINER CARD.

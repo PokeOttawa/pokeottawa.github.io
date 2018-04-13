@@ -4,11 +4,11 @@ title: null
 
 ## March Community Day Check-in
 
-Bulbasaur spawns (exclusive move: Frenzy Plant), triple catch XP, 3-hour lures
+Mareep spawns (exclusive move: Dragon Pulse), 1/4 Egg Hatch Distance, 3-hour lures
 
 ### When
 
-Check-in: **Sunday, March 25th, 2018** - 1pm to 5pm EST
+Check-in: **Sunday, April 15th, 2018** - 1pm to 5pm EST
 
 The bonuses will be active from 2pm to 5pm EST.
 
@@ -33,7 +33,9 @@ Read more about the global event here: [pokemongolive.com/en/events/community-da
 
 ### When
 
-**March 17th, 2018**
+We are not currently planning an April Third Saturday because of how close it is to Community Day.
+
+<!--- 
 
 This event will occur rain or shine, since we have access to indoor facilities.
 
@@ -65,4 +67,5 @@ Trainers should arrive at the meeting place designated above at or before noon t
 
 This event is not officially endorsed or sponsored by Niantic or The Pokémon Company.
 
-Harassment of any kind is absolutely not tolerated at any of our events, and offenders will be immediately disqualified and barred from participating in future PGTS events.
+Harassment of any kind is absolutely not tolerated at any of our events, and offenders will be immediately disqualified and barred from participating in future PGTS events. 
+-->

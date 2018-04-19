@@ -2,19 +2,25 @@
 title: null
 ---
 
-## March Community Day Check-in
+## May Community Day Check-in
 
-Mareep spawns (exclusive move: Dragon Pulse), 1/4 Egg Hatch Distance, 3-hour lures
+Charmander spawns (exclusive move: unrevealed), 3x Catch Stardust, 3-hour lures
 
 ### When
 
-Check-in: **Sunday, April 15th, 2018** - 1pm to 5pm EST
+Check-in: **Saturday, May 19th, 2018** - 1pm to 5pm EST
 
 The bonuses will be active from 2pm to 5pm EST.
 
 ### Where
 
-**Ottawa City Hall [(110 Laurier Ave. W)](https://goo.gl/maps/pMF6dCnxgwo)**
+Check in with someone at any of these locations to get the badge:
+
+- **Ottawa City Hall [(110 Laurier Ave. W)](https://goo.gl/maps/pMF6dCnxgwo)**
+  - [Facebook Event](https://www.facebook.com/events/436153786821057/)
+- **Ben Franklin Place [(101 Centrepointe Dr, Nepean)](https://goo.gl/maps/xTbvyLL2SFG2)**
+- **Carlingwood Mall [(2121 Carling Ave)](https://goo.gl/maps/DQK6Kxtrfwo)**
+- **Aylmer Rue Principale**
 
 ### Event Details
 
@@ -34,6 +40,8 @@ Read more about the global event here: [pokemongolive.com/en/events/community-da
 ### When
 
 We are not currently planning an April Third Saturday because of how close it is to Community Day.
+
+The May Third Saturday is on the same day as Community Day, so we're not sure if we'll hold an event for it.
 
 <!--- 
 

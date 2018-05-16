@@ -19,6 +19,7 @@ Check in with someone at any of these locations to get the badge:
 - **Ottawa City Hall [(110 Laurier Ave. W)](https://goo.gl/maps/pMF6dCnxgwo)**
   - [Facebook Event](https://www.facebook.com/events/436153786821057/)
 - **Ben Franklin Place [(101 Centrepointe Dr, Nepean)](https://goo.gl/maps/xTbvyLL2SFG2)**
+- **Dominion Arboretum [Central Experimental Farm](https://goo.gl/maps/DmTERXktpt92)**
 
 Check the #announcements channel in the Discord for an updated list of participating locations!
 

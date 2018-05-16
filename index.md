@@ -4,13 +4,13 @@ title: null
 
 ## May Community Day Check-in
 
-Charmander spawns (exclusive move: unrevealed), 3x Catch Stardust, 3-hour lures
+Charmander spawns, 3x Catch Stardust, 3-hour lures
+
+Evolve a **Charizard** to get the exclusive move **Blast Burn**
 
 ### When
 
-Check-in: **Saturday, May 19th, 2018** - 1pm to 5pm EST
-
-The bonuses will be active from 2pm to 5pm EST.
+**Saturday, May 19th, 2018** - 2pm to 5pm EST
 
 ### Where
 
@@ -19,8 +19,8 @@ Check in with someone at any of these locations to get the badge:
 - **Ottawa City Hall [(110 Laurier Ave. W)](https://goo.gl/maps/pMF6dCnxgwo)**
   - [Facebook Event](https://www.facebook.com/events/436153786821057/)
 - **Ben Franklin Place [(101 Centrepointe Dr, Nepean)](https://goo.gl/maps/xTbvyLL2SFG2)**
-- **Carlingwood Mall [(2121 Carling Ave)](https://goo.gl/maps/DQK6Kxtrfwo)**
-- **Aylmer Rue Principale**
+
+Check the #announcements channel in the Discord for an updated list of participating locations!
 
 ### Event Details
 
@@ -39,9 +39,7 @@ Read more about the global event here: [pokemongolive.com/en/events/community-da
 
 ### When
 
-We are not currently planning an April Third Saturday because of how close it is to Community Day.
-
-The May Third Saturday is on the same day as Community Day, so we're not sure if we'll hold an event for it.
+Third Saturday events are temporarily on hold while we adjust to the Community Day schedule.
 
 <!--- 
 
